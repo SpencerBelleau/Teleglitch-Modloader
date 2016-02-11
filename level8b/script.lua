@@ -1,0 +1,10 @@
+scripttable.NextLevelTrigger=nextlevel8b
+
+scripttable.TeleporterDoorTrigger=teledoor8b
+
+scripttable.BossTrigger=boss8b
+
+
+scripttable.LevelStart=start8b
+
+scripttable.OpenDoorSwitch=opendoors8b

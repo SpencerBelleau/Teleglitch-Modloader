@@ -1,0 +1,2 @@
+--Blank again lol
+--I could store the SpriteTable and FrameTable here, but I like them in preload

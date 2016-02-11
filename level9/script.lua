@@ -1,0 +1,7 @@
+scripttable.NextLevelTrigger=nextlevel9
+
+scripttable.OpenDoorSwitch=opendoors9
+
+scripttable.SquadActivateTrigger=squad9
+
+scripttable.LevelStart=start9

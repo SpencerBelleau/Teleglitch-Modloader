@@ -1,0 +1,15 @@
+scripttable.NextLevelTrigger=nextlevel3
+
+scripttable.SecretLevelEnd=secretlevel3
+
+scripttable.TeleporterText=secretterminal3
+
+scripttable.LevelStart=start3
+
+scripttable.PipeTrigger=pipe3
+
+scripttable.OpenDoorSwitch=opendoors3
+
+scripttable.BossInitTrigger=bossinit3
+
+scripttable.BossStartTrigger=bossstart3

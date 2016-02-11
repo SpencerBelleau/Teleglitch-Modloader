@@ -1,0 +1,3 @@
+scripttable.NextLevelTrigger=nextlevel4
+
+scripttable.LevelStart=start4

@@ -1,0 +1,7 @@
+scripttable.NextLevelTrigger=nextlevel6b
+
+scripttable.LevelStart=start6b
+
+scripttable.TeleporterDoorTrigger=teledoor6b
+
+scripttable.SnakeTrigger=snake6b

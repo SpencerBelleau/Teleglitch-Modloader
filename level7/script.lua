@@ -1,0 +1,9 @@
+scripttable.NextLevelTrigger=nextlevel7a
+
+scripttable.NextLevelTrigger2=nextlevel7b
+
+scripttable.LevelStart=start7
+
+scripttable.EndTerminalA=endterminal7a
+
+scripttable.EndTerminalB=endterminal7b
